@@ -1,15 +1,12 @@
 ---
-topic: ASP.NET and SQL Database sample for Azure App Service
+topic: ASP.NET and SQL Database sample 
 languages:
   - aspx-csharp
-products:
-  - Azure App Service
-  - Azure Web Apps
----
 
-# ASP.NET and SQL Database sample for Azure App Service
 
-This is a sample application that you can use to follow along with the tutorial at 
+# ASP.NET based on SQL Database sample
+
+This is a sample application adapted from the original tutorial  
 [Create an ASP.NET app in Azure with SQL Database](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-dotnet-sqldatabase/). 
 
 ## License
